@@ -2,4 +2,4 @@
 vbscript files
 hello
 this is the thing that has vbscript files
-you can download the .zip file
+you can download the .rar file
