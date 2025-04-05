@@ -1,9 +1,5 @@
-# simple.vbs
-or is it
-hey!!
-this is a simple file using .vbs scripts.
-you can download it to read
-if you want to rate comment the rating at issues tab
-if you read this readme.md file, you can download the .vbs file
-also you need chrome to open bytebeat otherwise it wont work
-if it still dont work there may be issue
+# vbsfiles.vbs
+vbscript files
+hello
+this is the thing that has vbscript files
+you can download the .zip file
